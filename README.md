@@ -3,6 +3,6 @@
 -  Have many experiences with various companies and diffrent businesses 
 -  software engineering life cycle (SDLC) managment on large scale project
 
-Software business analyst , Software enginner , .Net5 , 6 - Angular 2x v. , javascript , jquery , C# , Sql Server , Mongo Db 
+Software business analyst , Software enginner , .Net5 , 6 - Angular 2x v. , javascript , jquery , C# , Sql Server , Sql and no sql databases
 Performance optimizer , azure devops , E2E testing (pupeteer , cypress , majestic , headfull)
 
