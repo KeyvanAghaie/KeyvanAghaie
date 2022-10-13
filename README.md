@@ -1,4 +1,6 @@
-👋 Hi,This is Kayvan Aghaie github profile and wellcom I am fullstack .net / javascript developer
+👋 Hi,This is Kayvan Aghaie github profile and welcom 🤚🤚
+  
+I am fullstack .net / javascript developer also software engineer 
 -  Strong knowledge about backend and front specially Microsoft technologies 
 -  Have many experiences with various companies and diffrent businesses 
 -  software engineering life cycle (SDLC) managment on large scale project
