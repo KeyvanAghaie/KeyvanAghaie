@@ -1,4 +1,4 @@
-👋 Hi,This is Kayvan Aghaie github profile and welcom 🤚🤚
+👋 Hi, this is Kayvan Aghaie's GitHub profile, and welcome 🤚🤚
   
-User is a full-stack .NET/Python/Node.js developer and AI Engineer with strong Microsoft tech expertise, large-scale SDLC management experience across various companies and businesses. Skills: C#/.NET (all versions), Blazor, Angular 2x, JavaScript/jQuery, SQL/NoSQL databases, performance optimization, Azure DevOps, E2E testing (Puppeteer, Cypress, Majestic). Also has AI Engineer expertise, including LLMs, Prompt Engineering, and MLOps.
+The user is a full-stack developer experienced in .NET, Python, and Node.js, with strong expertise in Microsoft technologies and extensive management of large-scale Software Development Life Cycles (SDLC) across various companies. Their skills include C#/.NET (all versions), Blazor, Angular 2x, JavaScript/jQuery, SQL/NoSQL databases, and performance optimization. They are also proficient in Azure DevOps and end-to-end testing using tools such as Puppeteer, Cypress, and Majestic. Additionally, they possess expertise as an AI Engineer, focusing on large language models (LLMs), prompt engineering, and MLOps.
 
