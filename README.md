@@ -66,8 +66,9 @@ At **Code Clan**, I build RAG pipelines, optimize LLM agent workflows, and devel
 
 A few public repositories to explore:
 
-- [CleanArchitechture](https://github.com/KeyvanAghaie/CleanArchitechture)
-- [EShopOnlineMicroservice](https://github.com/KeyvanAghaie/EShopOnlineMicroservice) · Microservices training project in C#.
+- [Release Guard SDK](https://github.com/KeyvanAghaie/ReleaseGuard-SDK). · PYTHON, FASTAPI, REACT.
+- [Release Guard Evaluation](https://github.com/KeyvanAghaie/ReleaseGuard-Eval) · PYTHON, FASTAPI, REACT
+- [EShopOnlineMicroservice](https://github.com/KeyvanAghaie/EShopOnlineMicroservice) · C# / ASP.Net Core / Angular.
 - [CurrencyConverter-dotnet-backend](https://github.com/KeyvanAghaie/CurrencyConverter-dotnet-backend) · A simple currency conversion API.
 
 <details>
