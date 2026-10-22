@@ -50,7 +50,7 @@ At **Code Clan**, I build RAG pipelines, optimize LLM agent workflows, and devel
 | :--- | :--- |
 | **AI & data** | Python, RAG, LangChain, LangGraph, LangSmith, pandas |
 | **Backend** | C#, .NET, ASP.NET Core, FastAPI, Node.js |
-| **Frontend** | TypeScript, JavaScript, React,Next.js , Angular, Blazor |
+| **Frontend** | TypeScript, JavaScript, React, Next.js , Angular, Blazor |
 | **Architecture** | Microservices, CQRS, event-driven systems, RabbitMQ |
 | **Databases** | SQL Server, PostgreSQL, MongoDB |
 | **Cloud & delivery** | AWS, Azure, Docker, GitHub Actions, Azure DevOps |
